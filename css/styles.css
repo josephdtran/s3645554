@@ -1,0 +1,56 @@
+body{
+  background-color:#bbe1fa
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 7%;
+}
+
+h1 {
+  color: #1b262c;
+  font-family:Georgia;
+  font-size: 35px;
+}
+
+h2 {
+  color: #0f4c75;
+  font-family: serif;
+}
+
+p {
+  font-family: sans-serif;
+
+}
+
+ul {
+  font-family: sans-serif;
+
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.imageborder {
+  border-radius: 25px;
+}
+
+.smallerimage {
+  max-width:70%;
+}
+
+.alligntable {
+    margin-left:300px
+
+  }
+.center{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.rightalign{
+  margin-right: 20%;
+}
